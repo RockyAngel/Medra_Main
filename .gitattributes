@@ -1,5 +1,0 @@
-* text=auto
-*.jsx text eol=lf
-*.mjs text eol=lf
-*.md text eol=lf
-*.json text eol=lf
